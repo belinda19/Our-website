@@ -98,8 +98,12 @@ div.submit {
   border-color: white;
   border-radius: 10px;
   text-align: center;
-  color: white;
+  color: black;
   padding: 20px;
+}
+
+div.submit h1 {
+  color: white;
 }
 
 #emailtext {
